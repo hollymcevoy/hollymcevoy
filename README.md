@@ -5,6 +5,6 @@
 
 ### Connect with me 
 <a href="(https://www.linkedin.com/in/holly-mcevoy-27b49322b/)">
-  <alt="Linkedin">
+  <img src=![image](https://user-images.githubusercontent.com/78804127/219336174-d69ad007-fd83-4924-bf8e-e52acd14efbb.png)>
 </a>
 
