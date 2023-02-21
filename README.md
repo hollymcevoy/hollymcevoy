@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/jOpLbiGmHR9S0/giphy.gif?cid=6c09b952ptuprrz0t28zox69qygt0y43jgi1030967hhw10n&rid=giphy.gif&ct=g" alt="Alt Text" width="400" height="400">
+  <img src="[https://media3.giphy.com/media/jOpLbiGmHR9S0/giphy.gif?cid=6c09b952ptuprrz0t28zox69qygt0y43jgi1030967hhw10n&rid=giphy.gif&ct=g](https://media.tenor.com/1Lq8BYS_Y1YAAAAM/the-office-michael-scott.gif)" alt="Alt Text" width="400" height="400">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollymcevoy&show_icons=true&theme=cobalt)
