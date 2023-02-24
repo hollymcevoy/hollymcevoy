@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO AND WELCOME !
 
 <p align="center">
   <img src="https://media2.giphy.com/media/WS6ACu6QroN7mZxASM/giphy.gif" alt="Alt Text" width="400" height="400">
