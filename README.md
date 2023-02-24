@@ -1,5 +1,5 @@
 <p align="center">
-  <b><font size="6">🌸❤️ Hello and welcome to my GitHub! ❤️🌸</font></b>
+  <b><font size="6">🌸❤️ HELLO AND WELCOME TO MY GITHUB! ❤️🌸</font></b>
 </p>
 
 <p align="center">
