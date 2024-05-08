@@ -6,7 +6,6 @@
   <img src="https://media2.giphy.com/media/WS6ACu6QroN7mZxASM/giphy.gif" alt="Alt Text" width="400" height="400">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollymcevoy&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollymcevoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me 
